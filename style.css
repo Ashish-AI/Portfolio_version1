@@ -1,0 +1,189 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  align-items: center;
+  font-family: 'Nova Mono', monospace;
+}
+
+.upper-container
+{
+  background-color: #393e46;
+  height: 1000px;
+  color: #f9fcfb;
+}
+.upper-cloud img{
+  height: 150px;
+  width: 150px;
+  margin-top: 50px;
+  margin-left: 200px;
+
+}
+.name{
+  /* padding: 20px; */
+  text-align: center;
+}
+h1{
+  line-height: 2;
+  font-family: 'Arizonia', cursive;
+  font-size: 100px;
+}
+p{
+  font-size: 23px;
+}
+
+.lower-cloud img{
+  height: 150px;
+  width: 150px;
+  float: right;
+  margin-right: 200px;
+}
+
+.volcano{
+  /* margin: auto; */
+}
+.volcano img{
+  height: 400px;
+  width: 400px;
+  display: block;
+  margin: 180px auto 0 auto;
+
+}
+
+
+.about-me{
+align-items: center;
+text-align: center;
+margin-top: 50px;
+}
+h2{
+font-size: 30px;
+}
+.pro-pic img{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  height: 200px;
+  width: 200px;
+}
+.descrip{
+  width: 50%;
+  display: block;
+  margin:auto;
+  font-family: 'Nova Mono', monospace;
+font-family: 'Roboto Mono', monospace;
+margin-bottom: 50px;
+}
+
+.education{
+  background-color:#34626c;
+  align-items: center;
+  text-align: center;
+  margin-top: 30px;
+  color: #f9fcfb;
+}
+.education h2{
+  padding-top: 50px;
+}
+
+.image img{
+  height: 200px;
+  width: 200px;
+}
+.lovely{
+  padding-top: 70px;
+  display: flex;
+  width: 70%;
+  margin:auto;
+}
+.xavier{
+  display: flex;
+  width: 70%;
+  margin:auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.abps{
+  display: flex;
+  width: 70%;
+  margin:auto;
+  padding-bottom: 40px;
+
+}
+
+.desc p{
+  padding:20px;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 15px;
+}
+li{
+  list-style: none;
+  text-decoration: none;
+}
+
+.contact{
+  display: block;
+  margin: auto;
+  text-align: center;
+  width: 70%;
+  margin-bottom: 150px;
+}
+
+.contact h2{
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.handles{
+  display: flex;
+}
+.linkedin{
+  display: block;
+  margin:auto;
+}
+
+.gmail{
+  display: block;
+  margin:auto;
+}
+
+.github{
+  display: block;
+  margin:auto;
+}
+.imone{
+  transition: transform .2s;
+}
+.imone:hover{
+transform: scale(1.5);
+}
+
+
+.footer{
+  background-color: #393e46;
+  height: 60px;
+  color: #f9fcfb;
+}
+
+.inner-footer{
+  display: flex;
+  width: 70%;
+  margin-left: 23%;
+  font-family: 'Cousine', monospace;
+
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+#tc{
+  padding :20px 50px;
+}
+#web{
+  padding-top: 20px;
+}
+#pv{
+    padding-top: 20px;
+}
